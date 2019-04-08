@@ -40,7 +40,7 @@
     "classnames": "2.2.5",
     "highlight.js": "^9.10.0",
     "isomorphic-fetch": "2.2.1",
-    "js-yaml": "3.6.1",
+    "js-yaml": "3.13.1",
     "lint-staged": "^4.3.0",
     "lodash": "4.13.1",
     "moment": "2.17.1",
