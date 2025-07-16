@@ -39,7 +39,7 @@
     "brace": "0.9.1",
     "classnames": "2.2.5",
     "highlight.js": "^9.10.0",
-    "isomorphic-fetch": "2.2.1",
+    "isomorphic-fetch": "3.0.0",
     "js-yaml": "3.6.1",
     "lint-staged": "^4.3.0",
     "lodash": "4.13.1",
